@@ -1,3 +1,3 @@
-# Quotes-site
+# Quotes-React
 
-## Hosted [Link](https://quote-site-react.vercel.app/)
+## Hosted [Link](https://quotes-react-mu.vercel.app/)
